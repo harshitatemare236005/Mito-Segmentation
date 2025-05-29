@@ -1,0 +1,12 @@
+streamlit
+torch
+torchvision
+onnx
+onnx2torch
+numpy
+Pillow
+opencv-python
+matplotlib
+tifffile
+tf2onnx
+tensorflow
