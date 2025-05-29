@@ -10,7 +10,8 @@ A deep learning project for **automatic mitochondria segmentation** in grayscale
 
 ## 📸 Demo
 
-<img src="https://github.com/harshitatemare236005/Mito-Segmentation/blob/main/demo/demo_ui.png" alt="Streamlit UI Screenshot" width="800"/>
+<img src="UI-screenshot.png" alt="Streamlit UI Screenshot" width="800"/>
+<img src="UI-screenshot2.png" alt="Streamlit UI Screenshot" width="800"/>
 
 > **Demo UI:** Upload `.tif` microscopy images and receive the segmented output mask in real time.
 
